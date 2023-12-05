@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstable_coin=self.webpackChunkstable_coin||[]).push([[1919],{21919:(e,s,c)=>{e.exports=c.p+"static/media/WETH.e66403efafdc442c30ce.svg"}}]);

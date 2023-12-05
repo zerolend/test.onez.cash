@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstable_coin=self.webpackChunkstable_coin||[]).push([[7352],{7352:(e,s,c)=>{e.exports=c.p+"static/media/WBTC.9708e6cde8ed215e7770.svg"}}]);
