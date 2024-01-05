@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstable_coin=self.webpackChunkstable_coin||[]).push([[3006],{13006:(e,s,a)=>{e.exports=a.p+"static/media/CRV.5a4bcbed15884afa22f7.svg"}}]);

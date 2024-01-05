@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstable_coin=self.webpackChunkstable_coin||[]).push([[7671],{87671:(e,s,b)=>{e.exports=b.p+"static/media/ONEZ.1054b742500b3f2e05fb.svg"}}]);

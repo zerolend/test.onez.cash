@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstable_coin=self.webpackChunkstable_coin||[]).push([[7006],{77006:(e,s,t)=>{e.exports=t.p+"static/media/NetworkETH.85c82812d36b276dff32.svg"}}]);

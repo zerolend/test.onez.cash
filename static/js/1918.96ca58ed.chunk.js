@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstable_coin=self.webpackChunkstable_coin||[]).push([[1918],{71918:(e,s,a)=>{e.exports=a.p+"static/media/USDC.34779d8d8ace27be89d3.svg"}}]);

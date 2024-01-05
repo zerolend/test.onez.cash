@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstable_coin=self.webpackChunkstable_coin||[]).push([[2006],{32006:(e,s,t)=>{e.exports=t.p+"static/media/NetworkArbitrum.f3e9da41563e719ea786.svg"}}]);
