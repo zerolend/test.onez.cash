@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstable_coin=self.webpackChunkstable_coin||[]).push([[1365],{61365:(e,s,a)=>{e.exports=a.p+"static/media/STONE.0f68790246f4c4fda5ee.svg"}}]);

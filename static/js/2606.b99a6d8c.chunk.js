@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstable_coin=self.webpackChunkstable_coin||[]).push([[2606],{42606:(e,s,c)=>{e.exports=c.p+"static/media/MANTA.bfc98f6cdd327ea0d6ce.svg"}}]);
